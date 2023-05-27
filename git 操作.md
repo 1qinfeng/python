@@ -48,23 +48,23 @@
 
 #### 设置用户签名
 
-![设置用户签名](C:/Users/33916/AppData/Roaming/Typora/typora-user-images/image-20230527230502094.png)
+![设置用户签名](image-20230527230502094.png)
 
 设置成功，后通过在c盘查看(路径：C:\Users\username\\.gitconfig)
 
-![查看配置成功](C:/Users/33916/AppData/Roaming/Typora/typora-user-images/image-20230527230742267.png)
+![查看配置成功](image-20230527230742267.png)
 
 #### 初始化本地库
 
-![初始化本地库](C:/Users/33916/AppData/Roaming/Typora/typora-user-images/image-20230527231018602.png)
+![初始化本地库](image-20230527231018602.png)
 
 在F：/git/路径下创建了.git文件夹(此文件夹很重要，不能删除)
 
-![初始化文件](C:/Users/33916/AppData/Roaming/Typora/typora-user-images/image-20230527231322912.png)
+![初始化文件](image-20230527231322912.png)
 
 #### 查看本地库状态
 
-![查看本地库状态以及信息解释](C:/Users/33916/AppData/Roaming/Typora/typora-user-images/image-20230527231755614.png)
+![查看本地库状态以及信息解释](image-20230527231755614.png)
 
 #### 新增文件
 
@@ -72,48 +72,47 @@
 
 (例：创建一个hello world.txt的文件)
 
-![创建文件](C:/Users/33916/AppData/Roaming/Typora/typora-user-images/image-20230527232235483.png)
+![创建文件](image-20230527232235483.png)
 
 后会出现
 
-![文件创建](C:/Users/33916/AppData/Roaming/Typora/typora-user-images/image-20230527232416834.png)
+![文件创建](image-20230527233018924.png)
 
 ==输入i或I==，进行写文件。（i=insert插入的意思）后输入“hello world!”，按==ESC键==后在使用==“yy”+“np”进行复制==(n为复制的次数)。
 
-![读写文件](C:/Users/33916/AppData/Roaming/Typora/typora-user-images/image-20230527233018924.png)
-
+![读写文件](image-20230527233306262.png)
 按ESC件退出口，输入==“:”+“wq”来保存==
 
 在原来的目录中出现“hello.txt”的文件
 
-![出现文件](C:/Users/33916/AppData/Roaming/Typora/typora-user-images/image-20230527233306262.png)
+![出现文件](image-20230527233724394.png)
 
 #### 再查询本地库状态
 
-![解读](C:/Users/33916/AppData/Roaming/Typora/typora-user-images/image-20230527233724394.png)
+![解读](image-20230527234040139.png)
 
 #### 将文件添加到缓冲区
 
 使用命令==git add 文件名==
 
-![添加到缓冲区](C:/Users/33916/AppData/Roaming/Typora/typora-user-images/image-20230527234040139.png)
+![添加到缓冲区](image-20230527234313037.png)
 
 #### 再次查询本地库状态
 
-![image-20230527234446915](C:/Users/33916/AppData/Roaming/Typora/typora-user-images/image-20230527234446915.png)
+![image-20230527234446915](image-20230527234446915.png)
 
 实行==git rm –cached 文件名==可实现见文件从缓冲区调回
 
 #### 将文件添加到本地库（版本系列）
 
-![image-20230527235158569](C:/Users/33916/AppData/Roaming/Typora/typora-user-images/image-20230527235158569.png)
+![image-20230527235158569](image-20230527235158569.png)
 
 #### 查询本地库状态
 
-![image-20230527235309152](C:/Users/33916/AppData/Roaming/Typora/typora-user-images/image-20230527235309152.png)
+![image-20230527235309152](image-20230527235309152.png)
 
 源文件中没有文件
 
 #### 查询日志
 
-![image-20230527235533113](C:/Users/33916/AppData/Roaming/Typora/typora-user-images/image-20230527235533113.png)
+![image-20230527235533113](image-20230527235533113.png)
