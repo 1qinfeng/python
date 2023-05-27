@@ -14,7 +14,7 @@
 
 ### Git工作机制
 
-![image-20230527224523833](C:/Users/33916/AppData/Roaming/Typora/typora-user-images/image-20230527224523833.png)
+![image-20230527224523833](![image](https://github.com/1qinfeng/python/assets/129819773/d340fa7b-3c21-4ded-8912-bd6d2dbefa6a))
 
 ### Git和代码托管中心
 
